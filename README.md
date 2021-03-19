@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NazerkeOmar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS, Java Script
-- 📫 How to reach me nazomardc@gmail.com
+- 📫 nazomardc@gmail.com
 
 <!---
 NazerkeOmar/NazerkeOmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
