@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NazerkeOmar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS, Java Script
+- 🌱 I’m currently learning Java
 - 📫 nazomardc@gmail.com
 
 <!---
